@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "hey",
+      "answer": "hello! how can i help you?"
+    },
+    {
+      "question": "hello",
+      "answer": "hey! how can i help you?"
+    },
+    {
+      "question": "hey there",
+      "answer": "hey there! how can i help you?"
+    },
+    {
+      "question": "hii",
+      "answer": "hello! how can i help you?"
+    }
+  ]
+}
